@@ -2,7 +2,9 @@
 ## __Hi! ( ﾟ◡ ﾟ)/  
 I'm m1ntooo
 Im 13 years old.__
+<p>
  <img src="https://count.getloli.com/get/@m1ntooo?theme=asoul">
+</p>
 __My Stats__  
 
 ![Top Languages Card(Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=m1ntooo&layout=compact)
