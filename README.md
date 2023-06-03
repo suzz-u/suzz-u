@@ -1,7 +1,7 @@
 ### Welcome to m1ntooo's GitHub.
 ## __Hi! ( ﾟ◡ ﾟ)/  
-I'm m1ntooo
-Im 13 years old.
+<p>I'm m1ntooo<br>
+Im 13 years old.</p>
 <p>
  <img src="https://count.getloli.com/get/@m1ntooo?theme=asoul">
 </p>
