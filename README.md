@@ -3,7 +3,7 @@
 <p>I'm m1ntooo<br>
 Im ?? years old.</p>
 <p>
- <img src="https://count-moe.dev-aix.jp/get/@minto?theme=rule34">
+ <img src="https://countor-m1.sda2.net/get/@minto?theme=rule34%22">
 </p>
 
 // My Status //
