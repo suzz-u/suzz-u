@@ -16,8 +16,8 @@
 ## Discord
 **My Discord Account✨**
 
- <a href="https://discord.com/users/612479046919520275">
- <img src="https://discord.c99.nl/widget/theme-4/612479046919520275.png">
+ <a href="https://discord.com/users/1231271616043028544">
+ <img src="https://discord.c99.nl/widget/theme-4/1231271616043028544.png">
 
 ## Project 👀
 <p>
