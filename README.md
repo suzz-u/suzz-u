@@ -15,7 +15,7 @@
 ・**YouTube Downloader >>** [ytdl.jp](https://ytdl.jp) 🎥
 
 ## Profile 🖋 
-・**Japan** - Junior High School ( sdc ) 🏫🗾
+・**Japan** - Junior High School ( ldc ) 🏫🗾
 
 ・**Language:** HTML / PHP / JavaScript / NodeJS 🌎
 
